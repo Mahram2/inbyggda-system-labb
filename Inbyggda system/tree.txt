@@ -1,0 +1,198 @@
+Folder PATH listing
+Volume serial number is 56D8-20F5
+C:.
+|   CAN_14_losningar_floor_fullstandiga.pdf
+|   CAN_14_losningar_floor_pedagogisk.pdf
+|   CAN_14_uppgifter.pdf
+|   EDF_analys_utf”rlig.pdf
+|   exempel-semaforer.pdf
+|   labintro.pdf
+|   Lektion 1.pdf
+|   l”sningsf”rslagL1.pdf
+|   Rt2026_PCP.pdf
+|   tree.txt
+|   
++---freetos
+|   \---FreeRTOS
+|       |   CODE_OF_CONDUCT.md
+|       |   keywords.txt
+|       |   library.properties
+|       |   LICENSE
+|       |   readme.md
+|       |   
+|       +---doc
+|       |       tick_sources.md
+|       |       tick_sources_timer0.cpp
+|       |       
+|       +---examples
+|       |   +---AnalogRead_DigitalRead
+|       |   |       AnalogRead_DigitalRead.ino
+|       |   |       
+|       |   +---ArrayQueue
+|       |   |       ArrayQueue.ino
+|       |   |       
+|       |   +---Assert
+|       |   |       Assert.ino
+|       |   |       
+|       |   +---Blink_AnalogRead
+|       |   |       Blink_AnalogRead.ino
+|       |   |       
+|       |   +---GoldilocksAnalogueTestSuite
+|       |   |       GA_Header.h
+|       |   |       GoldilocksAnalogueTestSuite.ino
+|       |   |       
+|       |   +---IntegerQueue
+|       |   |       IntegerQueue.ino
+|       |   |       
+|       |   +---Interrupts
+|       |   |       Interrupts.ino
+|       |   |       
+|       |   +---Mutex
+|       |   |       Mutex.ino
+|       |   |       
+|       |   +---Notifications
+|       |   |       Notifications.ino
+|       |   |       
+|       |   +---StructArray
+|       |   |       StructArray.ino
+|       |   |       
+|       |   +---StructQueue
+|       |   |       StructQueue.ino
+|       |   |       
+|       |   +---TaskStatus
+|       |   |       TaskStatus.ino
+|       |   |       
+|       |   \---TaskUtilities
+|       |           TaskUtilities.ino
+|       |           
+|       \---src
+|               Arduino_FreeRTOS.h
+|               event_groups.c
+|               event_groups.h
+|               FreeRTOSConfig.h
+|               FreeRTOSVariant.h
+|               heap_3.c
+|               History.txt
+|               LICENSE.md
+|               list.c
+|               list.h
+|               message_buffer.h
+|               mpu_wrappers.h
+|               port.c
+|               portable.h
+|               portmacro.h
+|               projdefs.h
+|               queue.c
+|               queue.h
+|               semphr.h
+|               stack_macros.h
+|               stream_buffer.c
+|               stream_buffer.h
+|               task.h
+|               tasks.c
+|               timers.c
+|               timers.h
+|               variantHooks.cpp
+|               
++---kaulab
+|   |   kaulab.zip
+|   |   
+|   \---KauLab
+|       |   .DS_Store
+|       |   .gitignore
+|       |   library.properties
+|       |   README.md
+|       |   
+|       +---.git
+|       |   |   COMMIT_EDITMSG
+|       |   |   config
+|       |   |   description
+|       |   |   HEAD
+|       |   |   index
+|       |   |   
+|       |   +---hooks
+|       |   |       applypatch-msg.sample
+|       |   |       commit-msg.sample
+|       |   |       fsmonitor-watchman.sample
+|       |   |       post-update.sample
+|       |   |       pre-applypatch.sample
+|       |   |       pre-commit.sample
+|       |   |       pre-merge-commit.sample
+|       |   |       pre-push.sample
+|       |   |       pre-rebase.sample
+|       |   |       pre-receive.sample
+|       |   |       prepare-commit-msg.sample
+|       |   |       push-to-checkout.sample
+|       |   |       update.sample
+|       |   |       
+|       |   +---info
+|       |   |       exclude
+|       |   |       
+|       |   +---logs
+|       |   |   |   HEAD
+|       |   |   |   
+|       |   |   \---refs
+|       |   |       +---heads
+|       |   |       |       main
+|       |   |       |       
+|       |   |       \---remotes
+|       |   |           \---origin
+|       |   |                   main
+|       |   |                   
+|       |   +---objects
+|       |   |   +---0b
+|       |   |   |       ac0638be8d79a9a7f5853b22e8f6337e10b3b6
+|       |   |   |       
+|       |   |   +---12
+|       |   |   |       11f76cb3786197129c11619b6d97291c0969f7
+|       |   |   |       
+|       |   |   +---2c
+|       |   |   |       660f68831e48b0bf16d208b11be9320f2387e7
+|       |   |   |       
+|       |   |   +---47
+|       |   |   |       32fbb87dc4641590fe3b9dbf8f199702db7052
+|       |   |   |       
+|       |   |   +---91
+|       |   |   |       8cf71d1a206c53e7af3ceb6ae50768d0af3c13
+|       |   |   |       
+|       |   |   +---94
+|       |   |   |       d1229b532248a8e0cef951ea3140ee9cc23d0a
+|       |   |   |       
+|       |   |   +---a0
+|       |   |   |       391339e8e8b6aaefaa502f6dcc550c8d2f7f12
+|       |   |   |       
+|       |   |   +---c5
+|       |   |   |       82734e876e6600d600a6a5219f9247589c6694
+|       |   |   |       
+|       |   |   +---c8
+|       |   |   |       5235f9e30749525a0270f2e427a8dcdd0873b9
+|       |   |   |       
+|       |   |   +---d8
+|       |   |   |       f16c262a361ed4e0cec6ad372e7a39a4a300c2
+|       |   |   |       
+|       |   |   +---e4
+|       |   |   |       3b0f988953ae3a84b00331d0ccf5f7d51cb3cf
+|       |   |   |       
+|       |   |   +---info
+|       |   |   \---pack
+|       |   \---refs
+|       |       +---heads
+|       |       |       main
+|       |       |       
+|       |       +---remotes
+|       |       |   \---origin
+|       |       |           main
+|       |       |           
+|       |       \---tags
+|       \---src
+|               kaulab.h
+|               
++---Labb 1_ Majd_ G”dk„nd
+|   \---Laboration 1 - ROBOT
+|           KauLab_LineFollower.ino
+|           README.md
+|           tree.txt
+|           
+\---makeblockdrive
+        makeblockdrive.zip
+        
